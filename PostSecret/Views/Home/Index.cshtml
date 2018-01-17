@@ -9,12 +9,29 @@
 </div>
 
 <div class="row">
-    <input type="text" />
-    <input type="button" value="Post Secret" />
-    @foreach (var secret in Model.Secrets)
-    {
-        <pre>@secret.Message</pre>
-    }
+    <div class="col-xs-4">
+        <div class="input-group">
+            <input class="form-control" type="text" />
+            <span class="input-group-btn">
+                <input class="btn btn-primary" type="button" value="Post Secret" />
+            </span>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        @foreach (var secret in Model.Secrets)
+        {
+
+
+            <div class="alert alert-warning alert-dismissible show" role="alert">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                @secret.Message
+            </div>
+        }
+    </div>
 </div>
 
 <div class="row">
@@ -36,7 +53,6 @@
             * Use Netfinity
             * Use PhilosopherPayments
             * Use InstantCash
-
         User Story Ideas:
             * I want a website that allows me to store my secrets (Text, Image, Voice Recording, gifs, emoticons).
             * I want private vaults
