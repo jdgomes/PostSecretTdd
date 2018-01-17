@@ -1,0 +1,9 @@
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\ModelLayer.Tests\bin\Debug\ModelLayer.Tests.dll
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\ModelLayer.Tests\bin\Debug\ModelLayer.Tests.pdb
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\ModelLayer.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\ModelLayer.Tests\bin\Debug\ModelLayer.dll
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\ModelLayer.Tests\bin\Debug\ModelLayer.pdb
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\ModelLayer.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\ModelLayer.Tests\obj\Debug\ModelLayer.Tests.csprojResolveAssemblyReference.cache
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\ModelLayer.Tests\obj\Debug\ModelLayer.Tests.dll
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\ModelLayer.Tests\obj\Debug\ModelLayer.Tests.pdb

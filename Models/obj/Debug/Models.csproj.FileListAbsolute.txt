@@ -1,0 +1,4 @@
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Models\bin\Debug\ModelLayer.dll
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Models\bin\Debug\ModelLayer.pdb
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Models\obj\Debug\ModelLayer.dll
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Models\obj\Debug\ModelLayer.pdb

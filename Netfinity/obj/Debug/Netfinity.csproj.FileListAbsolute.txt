@@ -1,0 +1,7 @@
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Netfinity\bin\Debug\Netfinity.dll
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Netfinity\bin\Debug\Netfinity.pdb
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Netfinity\obj\Debug\Netfinity.csprojResolveAssemblyReference.cache
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Netfinity\obj\Debug\Netfinity.dll
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Netfinity\obj\Debug\Netfinity.pdb
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Netfinity\bin\Debug\ModelLayer.dll
+c:\users\jgomes\documents\visual studio 2015\Projects\PostSecret\Netfinity\bin\Debug\ModelLayer.pdb

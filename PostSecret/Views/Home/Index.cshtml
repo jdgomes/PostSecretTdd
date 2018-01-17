@@ -1,0 +1,55 @@
+﻿@model ModelLayer.Vault
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Post Secret</h1>
+</div>
+
+<div class="row">
+    <input type="text" />
+    <input type="button" value="Post Secret" />
+    @foreach (var secret in Model.Secrets)
+    {
+        <pre>@secret.Message</pre>
+    }
+</div>
+
+<div class="row">
+    <pre>
+        Things to do Next:
+            * Use/Test Netfinity in Home Controller
+            * Get users Random Jeopardy Question for visiting the site (http://jservice.io/)
+            * Post Secret to Netfinity
+                * Verify users IP Address before allowing to Post (Verification Service)
+                    * If not verified store in Unverified Global Vault
+                    * If verified 
+                        * encrypt message (is encrypted)
+                        * store in Global Vault
+            * Given the user is verified, when viewing the page, encrypted messages will be decrypted 
+            * Given the user is not verified, when viewing the page, encrypted message will remain encrypted
+            * Hook Netfinity up to Entity Framework
+        
+        Fake Interfaces:
+            * Use Netfinity
+            * Use PhilosopherPayments
+            * Use InstantCash
+
+        User Story Ideas:
+            * I want a website that allows me to store my secrets (Text, Image, Voice Recording, gifs, emoticons).
+            * I want private vaults
+            * I want public vaults
+            * I want global vaults
+            * I want to share my secrets with different vaults and people
+            * I want to view my past secrets 
+            * I want to login with my phone/ 2 factor authentication?
+            * I want the ability to Tip people money for a secret (Cash, Credit Cards, Bitcoin)
+            * I want to thumbs up/thumbs down secrets
+            * I want to share on facebook
+            * I want to encrypt/decrypt secrets
+            * I want to auto play gifs
+            * I want to integrate with giphy
+</pre>
+</div>
